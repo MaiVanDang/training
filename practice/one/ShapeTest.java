@@ -1,4 +1,4 @@
-package PracticeOne;
+package practice.one;
 
 class Shape {
     protected double width;
